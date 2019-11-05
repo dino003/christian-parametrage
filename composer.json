@@ -1,0 +1,13 @@
+{
+    "name": "boris/parametrage",
+    "description": "Application de parametrage des horraires de travail et des couts",
+    "type": "projet",
+    "authors": [
+        {
+            "name": "boris DJOMAN",
+            "email": "boris03djoman@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
